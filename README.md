@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Wan Aqim
 
-🚀 Software Engineer | Full-Stack Developer | AI Enthusiast  
+Mid Full-Stack Developer | Software Engineer | AI Enthusiast  
 Passionate about building scalable web applications, experimenting with AI, and crafting smooth user experiences.  
 Currently diving deeper into **AI Engineering** while working on cool projects that combine **Next.js, Django, and AI-powered search**.
 
