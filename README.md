@@ -38,6 +38,6 @@ I’m exploring **Proxmox** for my home lab and going down rabbit holes on **esp
 
 ![GitHub contribution streak](https://streak-stats.demolab.com?user=PyConqueror&theme=radical)
 
-![Most-used languages in public GitHub repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=PyConqueror&layout=compact&theme=radical)
+Browse my repositories by language · [TypeScript](https://github.com/PyConqueror?tab=repositories&language=typescript) · [JavaScript](https://github.com/PyConqueror?tab=repositories&language=javascript) · [Python](https://github.com/PyConqueror?tab=repositories&language=python)
 
 </details>
