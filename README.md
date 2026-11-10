@@ -20,6 +20,12 @@
 
 ## My toolkit
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img alt="Tech stack: TypeScript, JavaScript, Python, React, Next.js, Tailwind CSS, HTML, CSS, Node.js, Bun, Django, Supabase, PostgreSQL, MongoDB, Elasticsearch, Docker, GitHub Actions, Vercel" src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,html,css,nodejs,bun,django,supabase,postgres,mongodb,elasticsearch,docker,githubactions,vercel&perline=9" />
+  </a>
+</p>
+
 | Area | Tools |
 | --- | --- |
 | Languages | `TypeScript` · `JavaScript` · `Python` · `SQL` |
